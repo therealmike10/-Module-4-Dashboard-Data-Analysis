@@ -1,5 +1,8 @@
 # Module 4: Dashboard and Data Analysis (Final Project)
+<p align= "justify">
 Proyecto final del Módulo 4 del curso Data &amp; Analytics V3 de ThePower, desarrollado por Miguel Encinas. Este proyecto se centra en el análisis de las estadísticas de los **jugadores de la NBA durante los partidos disputados los 6 primeros meses de la temporada 24/25**. Este dashboard nos va a permitir estudiar los promedios de las diferentes estadísticas para todos los jugadores de liga desde Octubre de 2024 hasta Febrero de 2025; no sólo eso, también podremos ver el resumen de las estadísticas por equipo o incluso por conferencia. Para ello, se realizaron los siguientes pasos, correspondientes a las diferentes etapas del ciclo de vida de los datos.
+  
+</p>
 
 ## ⬇️ Descarga de los datos
 Los datos fueron descargados del repositorio **Kaggle**, en concreto desde el enlace [Datos NBA 24/25](https://www.kaggle.com/datasets/eduardopalmieri/nba-player-stats-season-2425?resource=download), que se puede visitar para comprobar la descripción detallada de las diferentes columnas que aparecen en la tabla de datos.
