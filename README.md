@@ -18,6 +18,12 @@ En primer lugar, selecciona tu conferencia para realizar un primer cribado de eq
 
 ## ℹ️ Información de interés
 **database_24_25 (original data).csv**: Archivo .csv original, descargado directamente desde Kaggle.
+</br>
+</br>
 **Module_4_Project.xlsx**: Archivo que contiene los datos tratados así como el dashboard final, SIN macros.
+</br>
+</br>
 **Module_4_Project_MACROS.xlsm**: Archivo que contiene los datos tratados así como el dashboard final, CON macros.
+</br>
+</br>
 **Module_4_Project_Workflow.docx**: Informe detallado de los pasos seguidos para elaborar este proyecto.
