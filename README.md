@@ -15,3 +15,9 @@ Tras el establecimiento de las tablas dinámicas, finalmente se crea un dashboar
 
 ## ⏩ Funcionamiento del dashboard (recomendado)
 En primer lugar, selecciona tu conferencia para realizar un primer cribado de equipos y jugadores. Tras esto, puedes seleccionar un mes concreto. Una vez realizados estos filtros, selecciona el equipo en el que estás interesado, y te aparecerán los promedios de las estadísticas de dicho equipo. A partir de ahí, puedes buscar a un jugador de dicho equipo en concreto, el equipo contra el que se ha enfretado o ambas opciones a la vez. Otra opción válida es filtrar por un equipo rival, para ver el promedio de estadísticas que dicho equipo recibe, lo cual también puede resultar interesante.
+
+## ℹ️ Información de interés
+**database_24_25 (original data).csv**: Archivo .csv original, descargado directamente desde Kaggle.
+**Module_4_Project.xlsx**: Archivo que contiene los datos tratados así como el dashboard final, SIN macros.
+**Module_4_Project_MACROS.xlsm**: Archivo que contiene los datos tratados así como el dashboard final, CON macros.
+**Module_4_Project_Workflow.docx**: Informe detallado de los pasos seguidos para elaborar este proyecto.
